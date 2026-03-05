@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
 	//array
-	int vetor[5]; //cinco posições do vetor, como se fosse int vetor0, vetor1, vetor2, ..., vetor4;
+	int vetor[5]; //cinco posicoes do vetor, como se fosse int vetor0, vetor1, vetor2, ..., vetor4;
 	int i;        //vetor[5]={10, 20, 30 ,40 ,50} ja adiciona os valores
 	//nome array[posição]=valor
 	vetor[0]=10;
