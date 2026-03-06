@@ -1,0 +1,33 @@
+# Executáveis
+*.exe
+*.out
+*.app
+
+# Arquivos objeto
+*.o
+*.obj
+
+# Bibliotecas
+*.so
+*.a
+*.dll
+
+# Arquivos gerados pelo compilador
+*.gch
+*.pch
+
+# Pastas de build
+build/
+bin/
+out/
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# Configurações do VS Code
+.vscode/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
